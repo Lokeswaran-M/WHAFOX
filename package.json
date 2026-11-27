@@ -2,7 +2,7 @@
   "name": "whafox-website",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://Lokeswaran-M.github.io/WHAFOX",
+  "homepage": "https://whafox.com",
   "type": "module",
   "scripts": {
     "dev": "vite",
